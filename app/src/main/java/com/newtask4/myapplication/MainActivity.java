@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
 
         ClarityConfig config = new ClarityConfig(
-                "joos8fevel",
+                "jqd2kabg44",
                 null, // Default user id
                 LogLevel.None,
                 false, // Disallow metered network usage
